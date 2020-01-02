@@ -95,3 +95,27 @@ Grampians是位于墨尔本西面Halls Gap 的国家公园，靠近著名的金�
 
 
 顺祝大家圣诞，元旦，双蛋快乐！！！
+
+更多旅游：
+
+- [周末游Brighton beach boxes](http://livinginau.life/2018/10/11/%E5%91%A8%E6%9C%AB%E6%B8%B8Brighton-beach-boxes/)
+- 
+  [high country maze的启示](http://livinginau.life/2018/02/16/high-country-maze%E7%9A%84%E5%90%AF%E7%A4%BA/)
+
+- 
+  [游澳洲首府堪培拉](http://livinginau.life/2018/01/16/%E6%B8%B8%E6%BE%B3%E6%B4%B2%E9%A6%96%E5%BA%9C%E5%A0%AA%E5%9F%B9%E6%8B%89/)
+
+- [游凯恩斯大堡礁](http://livinginau.life/2018/01/10/%E6%B8%B8%E5%87%AF%E6%81%A9%E6%96%AF%E5%A4%A7%E5%A0%A1%E7%A4%81/)
+
+
+美国旅游：
+
+- [美国西海岸游记](http://livinginau.life/2017/10/11/%E7%BE%8E%E5%9B%BD%E8%A5%BF%E6%B5%B7%E5%B2%B8%E6%B8%B8%E8%AE%B0/)
+
+
+欧洲旅游：
+
+- [法国之行日记](http://livinginau.life/2005/04/23/%E6%B3%95%E5%9B%BD%E4%B9%8B%E6%B8%B8/)
+- [欧洲21日游](http://livinginau.life/2019/02/22/%E6%AC%A7%E6%B4%B221%E6%97%A5%E6%B8%B8%E5%87%86%E5%A4%87%E7%AF%87/)
+
+
