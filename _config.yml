@@ -96,7 +96,7 @@ service-worker: true
 
 
 
-Friends
+#Friends
 friends: [
     {
         title: "中文博客",
