@@ -191,10 +191,10 @@ layout: default
 
 
  <!-- Valine 评论框 start -->
-           [% if site.valine.enable %]
-                      [% include valine_comments.html %]
-           [% endif %]
-           <!-- Valine 评论框 end -->
+{% if site.valine.enable %}
+{% include valine_comments.html %}
+{% endif %}
+<!-- Valine 评论框 end -->
 
 <div class="reward">
         <div class="reward-button">赏 <span class="reward-code">
