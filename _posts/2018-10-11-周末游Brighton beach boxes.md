@@ -8,6 +8,7 @@ header-img: img/post_western_coast_usa.jpg
 catalog: true
 tags:
     - 旅游
+    - 澳洲旅游
 ---
 
 两位老人来澳洲后，因为天气缘故，一直还没带他们到这里的海边看过。现在开始春末夏初，今天风和日丽，气温不温不火，正适合到海边看看。 老人家不能长途坐车，我们选了个相对近些的，比较著名些的海滩，就是Brighton Beach，这个澳洲墨尔本的海滩有个重要特色，就是上面有一排小房子，各种颜色。
@@ -50,6 +51,7 @@ My parents in law have been in Melbourne for a long time and it is a pity they h
 美国旅游：
 
 - [美国西海岸游记](http://livinginau.life/2017/10/11/%E7%BE%8E%E5%9B%BD%E8%A5%BF%E6%B5%B7%E5%B2%B8%E6%B8%B8%E8%AE%B0/)
+- [美国夏威夷游记](http://livinginau.life/2020/01/31/%E7%BE%8E%E5%9B%BD%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%B8%B8%E8%AE%B0/)
 
 
 欧洲旅游：

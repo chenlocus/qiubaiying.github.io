@@ -9,6 +9,7 @@ catalog: true
 tags:
     - 旅游
     - 生活
+    - 澳洲旅游
 ---
 
 ![image](https://img.esteem.ws/bg22useo22.jpg)
@@ -111,6 +112,7 @@ Grampians是位于墨尔本西面Halls Gap 的国家公园，靠近著名的金�
 美国旅游：
 
 - [美国西海岸游记](http://livinginau.life/2017/10/11/%E7%BE%8E%E5%9B%BD%E8%A5%BF%E6%B5%B7%E5%B2%B8%E6%B8%B8%E8%AE%B0/)
+- [美国夏威夷游记](http://livinginau.life/2020/01/31/%E7%BE%8E%E5%9B%BD%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%B8%B8%E8%AE%B0/)
 
 
 欧洲旅游：
