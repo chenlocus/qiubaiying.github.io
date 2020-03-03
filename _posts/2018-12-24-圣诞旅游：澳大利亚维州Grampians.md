@@ -108,6 +108,10 @@ Grampians是位于墨尔本西面Halls Gap 的国家公园，靠近著名的金�
 
 - [游凯恩斯大堡礁](http://livinginau.life/2018/01/10/%E6%B8%B8%E5%87%AF%E6%81%A9%E6%96%AF%E5%A4%A7%E5%A0%A1%E7%A4%81/)
 
+- [红杉树国家公园半日游](http://livinginau.life/2020/02/23/%E7%BA%A2%E6%9D%89%E6%A0%91%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E5%8D%8A%E6%97%A5%E6%B8%B8/)
+
+- [圣诞游维州格来屏山Grampians](http://livinginau.life/2018/12/24/%E5%9C%A3%E8%AF%9E%E6%97%85%E6%B8%B8-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%BB%B4%E5%B7%9EGrampians/)
+
 
 美国旅游：
 
