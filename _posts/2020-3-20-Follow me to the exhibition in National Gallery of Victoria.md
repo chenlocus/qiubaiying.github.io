@@ -2,7 +2,7 @@
 layout:     post
 title:      Follow me to the exhibition in National Gallery of Victoria (维州墨尔本美术馆的文化展览)
 subtitle:   
-date:       2020-3-20
+date:       2020-3-17
 author:     土猪
 header-img: img/post-bg-2015.jpg
 catalog: true
