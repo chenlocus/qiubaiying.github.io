@@ -112,6 +112,10 @@ Grampians是位于墨尔本西面Halls Gap 的国家公园，靠近著名的金�
 
 - [圣诞游维州格来屏山Grampians](http://livinginau.life/2018/12/24/%E5%9C%A3%E8%AF%9E%E6%97%85%E6%B8%B8-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%BB%B4%E5%B7%9EGrampians/)
 
+- [维州墨尔本美术馆的文化展览](http://livinginau.life/2020/03/20/Follow-me-to-the-exhibition-in-National-Gallery-of-Victoria/)
+
+- [Sherbrooke-Forest半日游](http://livinginau.life/2020/03/17/Sherbrooke-Forest%E5%8D%8A%E6%97%A5%E6%B8%B8/)
+
 
 美国旅游：
 
