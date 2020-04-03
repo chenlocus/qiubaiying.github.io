@@ -4,7 +4,7 @@ title:      DIY花园
 subtitle:   花园设计篇
 date:       2020-3-30
 author:     土猪
-header-img: img/post-bg-map.jpg
+header-img: img/post_backyard.jpg
 catalog: true
 tags:
     - 生活
