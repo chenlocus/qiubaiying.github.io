@@ -3,8 +3,11 @@ title: 土猪的澳洲生活
 SEOTitle: 土猪的博客|澳洲生活
 header-img: img/post-bg-desk.jpg
 #email: chenlocus@gmail.com
-description: "Life is a choice inside you, whatever it looks like."
-keyword: "澳洲生活，墨尔本，区块链，加密货币"
+description: "我是一个软件工程师，十年前技术移民到了澳洲，我希望用这个博客来记录我从开始申请移民直到在澳洲生活的点点滴滴，
+              让我以后能回忆起这在异国他乡各种折腾的有趣事情。 大家可以看到我整个移民的心路历程，我在澳洲经历的各种有趣的事情，
+              与council打交道，房屋加建，自己折腾后花园，各种成功的或不怎么成功的DIY，这是一个华人在澳洲的生活历程。 当然由于我本职原因，我也会写一些我
+              关注的业内技术发展，比如aws，大数据分析，区块链，加密货币。"
+keyword: "澳洲生活，墨尔本，房屋装修，花园，花卉，DIY，区块链，加密货币"
 url: "https://livinginau.life"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/chenlocus/chenlocus.github.io.git" # you code repository
