@@ -32,7 +32,7 @@ tags:
 
 
 
-这里要踢一下过滤网的问题(filter)，我一开始一直在找这个玩意，因为很多视频上都在furnce and blower那个外面主机那里，把这个取出来清洗一下，效率会高许多，但是我家这个型号是brivis buffalo 85，我上网看了一段别人拆开它的视频：
+这里要提一下过滤网的问题(filter)，我一开始一直在找这个玩意，因为很多视频上都在furnce and blower那个外面主机那里，把这个取出来清洗一下，效率会高许多，但是我家这个型号是brivis buffalo 85，我上网看了一段别人拆开它的视频：
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R5cE3A8wCSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
