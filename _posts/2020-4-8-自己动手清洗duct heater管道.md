@@ -37,7 +37,6 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R5cE3A8wCSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 但是直到视频看完，也没找到到底那里有filter，于是我只能上一些论坛寻找答案，于是看到这个帖子，我彻底放弃了寻找，也就是说，有些型号的机器就是不带filter的，我需要自己去给屋内这个回风口加一个filter：
 
 
@@ -50,7 +49,6 @@ https://www.renovateforum.com/f193/return-air-filters-stark-example-timely-warni
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QdKvKpwGOkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 我看了很多视频，基本确立了清洗的次序，先得关机，或者确保别吹风，然后如何室外有filter，就把这个先拆除了去清洗（我家没有，所以我就不需要到室外去了），接着清理室内那个return air inlet，然后把各个supply vent出风口封闭住，只留下一个口子去清理，打开duct heater fan，就让它吹风，逐个清理每个出风口，如此一直到所有出风口都被清理完。 
@@ -73,12 +71,45 @@ https://www.renovateforum.com/f193/return-air-filters-stark-example-timely-warni
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ofTyRShuCBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 我看到有些论坛上说，即便请别人来做，他们很多也是用吸尘器给你吸一吸，可能功率更大点，我觉得这样还是不行，所以我打算疫情过后，找人来好好清理下，要问清楚清理过程。需要有那种刷子伸到极深的地方去，需要空气压缩机到里面去吹和工业级别的吸尘器在supply vent口子那里吸。 
 
 
 
 不过现在这个清洗程度，再加上在supply vent那里装上过滤棉，应该没什么问题了。
+
+
+
+整个事情需要的主要工具有：
+
+
+
+- 工业级别吸尘器，普通的估计也行。
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00SWGVICS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SWGVICS&linkCode=as2&tag=holroyd198-20&linkId=a0f8274b1f12385145416201879457db"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SWGVICS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=holroyd198-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=holroyd198-20&l=am2&o=1&a=B00SWGVICS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+
+- 吹树叶的blower
+
+
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01B79BD6C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B79BD6C&linkCode=as2&tag=holroyd198-20&linkId=6e64ee889e14a942cac7f6bf3ca4b083"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B79BD6C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=holroyd198-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=holroyd198-20&l=am2&o=1&a=B01B79BD6C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+
+- 通风口过滤棉
+
+
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B079MCBJWR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B079MCBJWR&linkCode=as2&tag=holroyd198-20&linkId=b82beff64aece3cab90e45f4f326ee0c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B079MCBJWR&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=holroyd198-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=holroyd198-20&l=am2&o=1&a=B079MCBJWR" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+
+
+
+
+
+
 
 
 
