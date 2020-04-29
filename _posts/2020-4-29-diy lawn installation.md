@@ -14,7 +14,7 @@ catalog: false
 
 
 
-我们家的前花园，本来就已经贫瘠不堪，经过home extension之后，被烂泥彻底覆盖了，没有草坪的掩护，这不但影响美观，更引起了水土流失，每次下雨，泥土被水一冲，搞到车道那里都是黄泥水，一刮风，家门口的verandah上都是灰。
+我们家的前花园，本来就已经贫瘠不堪，经过[home extension](http://livinginau.life/2019/12/19/%E5%9C%A8%E6%BE%B3%E6%B4%B2%E6%88%BF%E5%B1%8B%E6%89%A9%E5%BB%BA%E7%9A%84%E6%8A%98%E8%85%BE/)之后，被烂泥彻底覆盖了，没有草坪的掩护，这不但影响美观，更引起了水土流失，每次下雨，泥土被水一冲，搞到车道那里都是黄泥水，一刮风，家门口的verandah上都是灰。
 
 
 
@@ -24,7 +24,7 @@ catalog: false
 
 
 
-在房屋加建，建造fence，重建driveway后，重新铺新草坪的事情就提到了日程上。这件事情我就从调查研究开始慢慢详谈。 我先研究下我家去买哪种草皮(turf)。我[比较了澳大利亚常见的6种草坪](https://www.ancoturf.com.au/news/grass-types-australia/)，最终选择了' **Eureka Kikuyu**'，主要原因是它既能耐夏日的高温干旱，也能耐冬天的大雨，没有日晒也没关系，也没有病虫，而且生长快速，我觉得我们家土地不算肥沃，需要这种有着强劲生命力的草坪。而且这玩意比澳大利亚常见的‘**Sir Walter DNA Certified Buffalo Grass**’价钱上还要便宜些。
+在房屋加建，[建造fence](http://livinginau.life/2020/01/06/%E7%BB%88%E4%BA%8E%E9%80%A0%E5%A5%BD%E4%BA%86fence/)，[重建driveway](http://livinginau.life/2020/04/26/rebuild-driveway/)后，重新铺新草坪的事情就提到了日程上。这件事情我就从调查研究开始慢慢详谈。 我先研究下我家去买哪种草皮(turf)。我[比较了澳大利亚常见的6种草坪](https://www.ancoturf.com.au/news/grass-types-australia/)，最终选择了' **Eureka Kikuyu**'，主要原因是它既能耐夏日的高温干旱，也能耐冬天的大雨，没有日晒也没关系，也没有病虫，而且生长快速，我觉得我们家土地不算肥沃，需要这种有着强劲生命力的草坪。而且这玩意比澳大利亚常见的‘**Sir Walter DNA Certified Buffalo Grass**’价钱上还要便宜些。
 
 
 
@@ -176,6 +176,8 @@ catalog: false
 - [自己造fence](http://livinginau.life/2020/01/06/%E7%BB%88%E4%BA%8E%E9%80%A0%E5%A5%BD%E4%BA%86fence/)
 
 - [砍树历史](http://livinginau.life/2019/12/29/%E7%A0%8D%E6%A0%91%E5%8E%86%E5%8F%B2/)
+
+- [重建driveway](http://livinginau.life/2020/04/26/rebuild-driveway/)
 
 - [从梯子落下如何自救](http://livinginau.life/2020/03/21/%E4%BB%8E%E6%A2%AF%E5%AD%90%E8%90%BD%E4%B8%8B%E5%A6%82%E4%BD%95%E8%87%AA%E6%95%91/)
 
