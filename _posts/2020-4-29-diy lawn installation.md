@@ -101,7 +101,7 @@ catalog: false
 
 
 
-周一时候，他们给我发了短信，确定草皮第二天早晨送过来的时间。 次日清晨，8点30分就送过来了，他们准备把草皮送过来了：
+周一时候，他们给我发了短信，确定草皮第二天早晨送过来的时间。 次日清晨，8点30分就送过来了：
 
 ![image.png](https://cdn.steemitimages.com/DQmSc6Hfgcs1ftFTmR3P7Pb4shjnHyvQoDFMeBGyUWezyjK/image.png)
 
