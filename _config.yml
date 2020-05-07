@@ -60,7 +60,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-#disqus_username: chinese-people-in-australia
+disqus_username: chinese-people-in-australia
 
 # Gitalk
 # gitalk:
@@ -76,16 +76,16 @@ kramdown:
 # Valine.
 # You can get your appid and appkey from https://leancloud.app
 # more info please open https://valine.js.org
-valine:
-  enable: true
-  appid:  SgoOyCHwXXG9ss0ruJFtBBX7-MdYXbMMI # your leancloud app id
-  appkey: L0JqttDk9SQjsjQvWg2rlEOf # your leancloud app key
-  notify: true # mail notifier , https://github.com/xCss/Valine/wiki
-  verify: true # Verification code
-  placeholder: 请在此处留言 # comment box placeholder
-  avatar:   # gravatar style
-  guest_info: 昵称,邮件,网址 # custom comment header
-  pageSize: 10 # pagination size
+# valine:
+#   enable: true
+#   appid:  SgoOyCHwXXG9ss0ruJFtBBX7-MdYXbMMI # your leancloud app id
+#   appkey: L0JqttDk9SQjsjQvWg2rlEOf # your leancloud app key
+#   notify: true # mail notifier , https://github.com/xCss/Valine/wiki
+#   verify: true # Verification code
+#   placeholder: 请在此处留言 # comment box placeholder
+#   avatar:   # gravatar style
+#   guest_info: 昵称,邮件,网址 # custom comment header
+#   pageSize: 10 # pagination size
   # path: window.location.pathname
 
 # 统计
