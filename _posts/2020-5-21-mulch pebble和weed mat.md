@@ -82,7 +82,7 @@ Mulch这个玩意，如果需要很多，我不建议去bunnings买，太贵，�
 - [自己造fence](http://livinginau.life/2020/01/06/%E7%BB%88%E4%BA%8E%E9%80%A0%E5%A5%BD%E4%BA%86fence/)
 - [砍树历史](http://livinginau.life/2019/12/29/%E7%A0%8D%E6%A0%91%E5%8E%86%E5%8F%B2/)
 - [从梯子落下如何自救](http://livinginau.life/2020/03/21/%E4%BB%8E%E6%A2%AF%E5%AD%90%E8%90%BD%E4%B8%8B%E5%A6%82%E4%BD%95%E8%87%AA%E6%95%91/)
-- [在澳洲房屋扩建的折腾](http://livinginau.life/2019/12/19/%E5%9C%A8%E6%BE%B3%E6%B4%B2%E6%88%BF%E5%B1%8B%E6%89%A9%E5%BB%BA%E7%9A%84%E6%8A%98%E8%85%BE/)
+- [在澳洲房屋扩建的折腾](http://livinginau.life/2020/03/26/%E5%9C%A8%E6%BE%B3%E6%B4%B2%E6%88%BF%E5%B1%8B%E6%89%A9%E5%BB%BA%E7%9A%84%E6%8A%98%E8%85%BE/)
 - [澳洲买房经历的苦逼事情](http://livinginau.life/2019/12/18/%E6%BE%B3%E6%B4%B2%E4%B9%B0%E6%88%BF%E7%BB%8F%E5%8E%86%E7%9A%84%E8%8B%A6%E9%80%BC%E4%BA%8B%E6%83%85/)
 - [吐槽下澳洲的教育制度](http://livinginau.life/2019/12/13/%E5%90%90%E6%A7%BD%E6%BE%B3%E6%B4%B2%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/)
 - [关于fence (篱笆)的悲惨故事](http://livinginau.life/2019/12/01/%E5%85%B3%E4%BA%8Efence%E7%9A%84%E6%82%B2%E6%83%A8%E6%95%85%E4%BA%8B/)
